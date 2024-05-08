@@ -1,5 +1,6 @@
 footer {
-    background-color: var(--color-primary-2);
+    background-color: #FFC8DD;
+    padding-bottom: 30px;
 }
 
 #footer_items {
