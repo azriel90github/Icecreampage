@@ -1,6 +1,7 @@
 /*rodape------------------------------------------*/
 
 footer {
+    background: #FAEBD7;
     width: 100%;
     display: flex;
     justify-content: space-around;
@@ -29,11 +30,6 @@ footer .pages menu a i {
     padding-right: 8px;
     font-size: 20px;
     color: var(--cor03);
-}
-
-footer .pages menu a:hover {
-    color: #e6e6e6;
-    transition: .2s;
 }
 
 footer .content-number h3 {
